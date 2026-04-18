@@ -1,0 +1,13 @@
+package com.atguigu.gmall.mapper;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Data
+@AllArgsConstructor
+public class TrafficDurPerSession {
+    // 渠道
+    String ch;
+    // 各会话页面访问时长
+    Double durPerSession;
+}

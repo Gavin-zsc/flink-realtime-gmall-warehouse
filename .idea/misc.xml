@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExcludeFromValidation">
+    <file url="file://$PROJECT_DIR$/warehouse-dim/src/main/java/com/zhangshengchao/realtime/dim/DimApp.java" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/realtime_housewarehouse-publisher/pom.xml" />
+        <option value="$PROJECT_DIR$/realtime_warehouse-publisher/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/realtime-common/pom.xml" />
+        <option value="$PROJECT_DIR$/realtime-dim/pom.xml" />
+        <option value="$PROJECT_DIR$/realtime-dwd/pom.xml" />
+        <option value="$PROJECT_DIR$/realtime-dws/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
